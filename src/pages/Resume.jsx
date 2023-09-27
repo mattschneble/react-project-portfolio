@@ -18,7 +18,11 @@ export default function Resume() {
                 </ul>
             </div>
             <div className="d-flex">
-                {/*insert link to resume once posted to public folder*/}
+                <a 
+                href="MatthewSchnebleResume.pdf" 
+                download="MatthewSchnebleResume.pdf"
+                >
+                    Download Resume</a>
             </div>
         </div>
     );
