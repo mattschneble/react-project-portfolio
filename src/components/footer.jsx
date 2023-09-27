@@ -1,4 +1,4 @@
-// create and export footer component
+// create and export footer components
 
 export default function Footer() {
     return (
