@@ -1,4 +1,5 @@
 // import picture of me later on
+import myself from "../assets/images/Bio.jpg";
 
 // create and export component for the About Me page
 export default function AboutMe() {
