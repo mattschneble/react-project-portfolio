@@ -1,46 +1,47 @@
 #root {
-    background-color: #c7d6d5;
-    color: #0a0903;
-    font-family: 'Victor Mono', monospace;
+    background-color: white;
+    color: black;
+    font-family: 'Roboto', sans-serif;
   }
   
   a {
-    color: #d34f73 !important;
+    color: blue !important;
     font-weight: bold
   }
   
   h1 {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Arial', sans-serif;
     font-size: 50px !important;
   }
+
   h2{
-    font-family: 'Dancing Script', cursive;
-    font-size: 40px !important;
+    font-family: 'Arial', sans-serif;
+    font-size: 30px !important;
   }
   
   ul {
     list-style-type: none;
   }
   
-  #me {
-    border-radius: 15px 50px;
-    background: #52489c;
-    padding: 5px;
+  #my-picture {
+    border-radius: 20px 40px;
+    background: darkred;
+    padding: 10px;
   }
   
   img{
-    border-radius: 20px;
-    background: #52489c;
+    border-radius: 25px;
+    background: black;
     padding: 3px;
     margin: 5px;
   }
   
-  #about-me {
+  #text-bio {
     text-align: center;
   }
   
-  @media (max-width: 995px) {
-    #about-container{
+  @media (max-width: 920px) {
+    #about-me{
       flex-direction: column;
     }
   }
