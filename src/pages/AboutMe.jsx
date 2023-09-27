@@ -10,6 +10,7 @@ export default function AboutMe() {
             <div id="about-me" className="d-flex">
                 <img
                 id="my-picture"
+                className="img-fluid"
                 width={250}
                 src={myself}
                 alt="picture of myself stopping during a hike in Portugal."
