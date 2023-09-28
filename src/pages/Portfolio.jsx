@@ -1,10 +1,10 @@
 // import screenshots for later use
-import JavaScriptQuiz from "../assets/images/JavaScriptQuiz.png";
-import PasswordGenerator from "../assets/images/PasswordGenerator.png";
-import TextEditor from "../assets/images/TextEditor.png";
-import FlavorByte from "../assets/images/FlavorByte.png";
-import HaikuHelper from "../assets/images/HaikuHelper.png";
-import ReelReviews from "../assets/images/ReelReviews.png";
+import JavaScriptQuiz from "../../public/JavaScriptQuiz.png";
+import TextEditor from "../../public/TextEditor.png";
+import PasswordGenerator from "../../public/PasswordGenerator.png";
+import FlavorByte from "../../public/FlavorByte.png";
+import ReelReviews from "../../public/ReelReviews.png";
+import HaikuHelper from "../../public/HaikuHelper.png";
 
 // create and export portfolio page
 export default function Portfolio() {
