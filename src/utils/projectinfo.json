@@ -1,42 +1,42 @@
 [
     {
         "title": "Haiku Helper",
-        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/HaikuHelper.png",
+        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/HaikuHelper.jpg",
         "link": "https://haiku-helper-428f5c7f1218.herokuapp.com/",
         "repo": "https://github.com/ssherp/haiku-creator"
     },
 
     {
         "title": "ReelReviews",
-        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/ReelReviews.png",
+        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/ReelReviews.jpg",
         "link": "https://cinemaserver-7dafae9cd971.herokuapp.com/",
         "repo": "https://github.com/mattschneble/ReelReviews"
     },
 
     {
         "title": "FlavorByte",
-        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/FlavorByte.png",
+        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/FlavorByte.jpg",
         "link": "https://rossfahan.github.io/flavorByte/",
         "repo": "https://github.com/RossFahan/flavorByte"
     },
 
     {
         "title": "Password Generator",
-        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/PasswordGenerator.png",
+        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/PasswordGenerator.jpg",
         "link": "https://mattschneble.github.io/custom-password-generator/",
         "repo": "https://github.com/mattschneble/custom-password-generator"
     },
 
     {
         "title": "Text Editor",
-        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/TextEditor.png",
+        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/TextEditor.jpg",
         "link": "https://fathomless-brushlands-17288-cc4c35c614a6.herokuapp.com/",
         "repo": "https://github.com/mattschneble/progressive-text-editor"
     },
 
     {
         "title": "JavaScript Quiz",
-        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/JavaScriptQuiz.png",
+        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/JavaScriptQuiz.jpg",
         "link": "https://mattschneble.github.io/knowledge-quiz/",
         "repo": "https://github.com/mattschneble/knowledge-quiz"
     }
