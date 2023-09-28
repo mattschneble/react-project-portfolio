@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Haiku Helper",
+        "image": "../../public/images/HaikuHelper.png",
+        "link": "https://haiku-helper-428f5c7f1218.herokuapp.com/",
+        "repo": "https://github.com/ssherp/haiku-creator"
+    },
+
+    {
+        "title": "ReelReviews",
+        "image": "../../public/images/ReelReviews.png",
+        "link": "https://cinemaserver-7dafae9cd971.herokuapp.com/",
+        "repo": "https://github.com/mattschneble/ReelReviews"
+    },
+
+    {
+        "title": "FlavorByte",
+        "image": "../../public/images/FlavorByte.png",
+        "link": "https://rossfahan.github.io/flavorByte/",
+        "repo": "https://github.com/RossFahan/flavorByte"
+    },
+
+    {
+        "title": "Password Generator",
+        "image": "../../public/images/PasswordGenerator.png",
+        "link": "https://mattschneble.github.io/custom-password-generator/",
+        "repo": "https://github.com/mattschneble/custom-password-generator"
+    },
+
+    {
+        "title": "Text Editor",
+        "image": "../../public/images/TextEditor.png",
+        "link": "https://fathomless-brushlands-17288-cc4c35c614a6.herokuapp.com/",
+        "repo": "https://github.com/mattschneble/progressive-text-editor"
+    },
+
+    {
+        "title": "JavaScript Quiz",
+        "image": "../../public/images/JavaScriptQuiz.png",
+        "link": "https://mattschneble.github.io/knowledge-quiz/",
+        "repo": "https://github.com/mattschneble/knowledge-quiz"
+    }
+]
