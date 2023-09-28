@@ -7,17 +7,13 @@ export default function Portfolio() {
     return (
         <div>
             <h1 className="text-center">Portfolio</h1>
-            <div className="container">
+            <div className="container justify-content-center">
                 <div className="row">
                     {projects.map((project) => (
-                        <Project
-                            key={project.id}
-                            name={project.name}
-                            image={project.image}
-                            description={project.description}
-                            github={project.github}
-                            deployed={project.deployed}
-                        />
+                        <div className="Project">
+                            <Project
+                            {...project}/>
+                        </div>
                     ))}
                 </div>
             </div>
