@@ -1,42 +1,42 @@
 [
     {
         "title": "Haiku Helper",
-        "image": "../../public/HaikuHelper.png",
+        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/HaikuHelper.png",
         "link": "https://haiku-helper-428f5c7f1218.herokuapp.com/",
         "repo": "https://github.com/ssherp/haiku-creator"
     },
 
     {
         "title": "ReelReviews",
-        "image": "../../public/ReelReviews.png",
+        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/ReelReviews.png",
         "link": "https://cinemaserver-7dafae9cd971.herokuapp.com/",
         "repo": "https://github.com/mattschneble/ReelReviews"
     },
 
     {
         "title": "FlavorByte",
-        "image": "../../public/FlavorByte.png",
+        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/FlavorByte.png",
         "link": "https://rossfahan.github.io/flavorByte/",
         "repo": "https://github.com/RossFahan/flavorByte"
     },
 
     {
         "title": "Password Generator",
-        "image": "../../public/PasswordGenerator.png",
+        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/PasswordGenerator.png",
         "link": "https://mattschneble.github.io/custom-password-generator/",
         "repo": "https://github.com/mattschneble/custom-password-generator"
     },
 
     {
         "title": "Text Editor",
-        "image": "../../public/TextEditor.png",
+        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/TextEditor.png",
         "link": "https://fathomless-brushlands-17288-cc4c35c614a6.herokuapp.com/",
         "repo": "https://github.com/mattschneble/progressive-text-editor"
     },
 
     {
         "title": "JavaScript Quiz",
-        "image": "../../public/JavaScriptQuiz.png",
+        "image": "https://raw.githubusercontent.com/mattschneble/react-project-portfolio/main/public/JavaScriptQuiz.png",
         "link": "https://mattschneble.github.io/knowledge-quiz/",
         "repo": "https://github.com/mattschneble/knowledge-quiz"
     }
